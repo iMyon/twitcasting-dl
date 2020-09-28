@@ -1,7 +1,7 @@
 {
   "name": "twitcasting-dl",
   "version": "0.0.1",
-  "description": "",
+  "description": "download twitcasting history videos.",
   "main": "index.js",
   "bin": {
     "twitcasting-dl": "index.js"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Myon<myon.cn@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
